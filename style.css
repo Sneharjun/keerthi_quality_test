@@ -1,0 +1,30 @@
+
+.inbox{
+    height: 600px;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: right;
+    font-style: italic;
+    background-image: url(pic1.jpg);
+}
+.dot{
+font-size: 60px;
+padding-top: 60px;
+
+}
+.text{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+.inbox1{
+    height:20px;
+    width: 100%;
+    background-color: white;
+}
+.index{
+    color: white;
+}
+.style{
+    padding-top: 50px;
+}
